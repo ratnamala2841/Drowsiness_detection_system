@@ -1,0 +1,13 @@
+names:
+- '0'
+- '1'
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: nthuddd-m8y1k
+  url: https://app.roboflow.com/computer-vision-workspace-uyi5g/nthuddd-m8y1k/1
+  version: 1
+  workspace: computer-vision-workspace-uyi5g
+test: ../test/images
+train: ../train/images
+val: ../valid/images
