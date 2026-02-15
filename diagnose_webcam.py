@@ -1,6 +1,6 @@
 """
 Diagnose webcam issues
-Run this to find out what's wrong with your camera
+Run this to find out what's wrong with camera
 """
 
 import cv2
